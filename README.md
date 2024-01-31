@@ -1,7 +1,8 @@
 # Publicações!
 
 Como membro da equipe técnica do **Departamento de Estatística e Geoprocessamento do Amazonas**,
-na Secretaria de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação (**SEDECTI**), contribui em algumas publicações. :)
+na Secretaria de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação (**SEDECTI**), contribui em algumas publicações
+através do monitoramento de bases de dados, tabulação e análise descritiva dos dados. :)
 
 Seguem os links para as publicações:
 
