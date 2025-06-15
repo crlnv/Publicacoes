@@ -14,4 +14,8 @@ Seguem os links para as publicações:
 
 ## Publicações em anais
 
-- [textit{ESTIMAÇÃO DA SUBNOTIFICAÇÃO DE ESTUPRO DE VULNERÁVEL EM MENINAS MENORES DE 14 ANOS NOS ESTADOS BRASILEIROS.}](https://www.even3.com.br/anais/xxxii-congresso-de-iniciacao-cientifica-380957/767110-estimacao-da-subnotificacao-de-estupro-de-vulneravel-em-meninas-menores-de-14-anos-nos-estados-brasileiros/)
+- [Estimação da Subnotificação de Estupro de Vulnerável em Meninas Menores de 14 Anos nos Estados Brasileiros](https://www.even3.com.br/anais/xxxii-congresso-de-iniciacao-cientifica-380957/767110-estimacao-da-subnotificacao-de-estupro-de-vulneravel-em-meninas-menores-de-14-anos-nos-estados-brasileiros/)
+- [Bruxismo Infantil: Relação Entre o Uso de Telas e o Consumo de Açúcar em Crianças](https://www.even3.com.br/anais/xxxii-congresso-de-iniciacao-cientifica-380957/816139-bruxi
+smo-infantil--relacao-entre-o-uso-de-telas-e-o-consumo-de-acucar-em-criancas/)
+- [Descrição das causas múltiplas de morte, relacionados a Covid-19,
+no Amazonas em 2020-2022](https://medtrop2024.com.br/site/medtrop2024/anais)
